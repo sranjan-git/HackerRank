@@ -6,12 +6,12 @@ This repository contains my solutions to various C++ programming questions from 
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/hackerrank-cpp.git
+   git clone https://github.com/your-username/HackerRank.git
    ```
 
 2. Navigate to the directory:
    ```
-   cd hackerrank-cpp
+   cd HackerRank-cpp
    ```
 
 3. Each question is organized in a separate folder. Inside each folder, you will find the C++ source code file with the solution.
